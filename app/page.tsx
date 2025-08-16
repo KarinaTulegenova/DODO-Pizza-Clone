@@ -7,5 +7,6 @@ export default function Page() {
 			<Title text="Все пиццы" size="lg" className='font-extrabold' />
 		</Container>
 		<TopBar />
+		<div style={{ height: '3000px' }}></div>
 	</>;
 }
