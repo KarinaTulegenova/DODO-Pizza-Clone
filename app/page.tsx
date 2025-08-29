@@ -65,7 +65,7 @@ export default function Page() {
 							}
 						]} categoryId={1} />
 
-						<ProductsGroupList title={'Завтрак'} items={[
+						<ProductsGroupList title={'Комбо'} items={[
 							{
 								id: 1,
 								name: 'Чизбургер-пицца',
